@@ -1,0 +1,49 @@
+body { 
+background-color:#def; 
+background-image:url('http://gleeby.jerq.org/all/pics/wls.png');
+background-size:cover;
+background-position:center;
+color:#060; 
+font-family:'Comic Sans MS', Arial, Helvetica, sans-serif; 
+}
+ol, pre, dl { margin-top:0px; margin-bottom:0px; }
+ul { margin-top:0px; margin-bottom:0px; margin-left:10px; }
+dt { font-size:larger; margin-top:0.5em; }
+div { margin:0px; padding-left:10px; }
+
+h2 { margin:0px; }
+h3 { margin:0px; padding:0px; }
+
+a { color:#00b; text-decoration:none; }
+a:visited { color:#008; }
+a:hover { color:#00f; }
+
+.indent { margin-left:5%; }
+.row { clear:left; }
+.text { float:left; }
+.text ul { margin-left:15px; padding-left:6px; list-style-type:circle; }
+
+#logo { float:left; font-size:xx-large; }
+
+#apps { float:right; width:350px; height:80%; }
+#poodtimer { padding-bottom:10px; clear:both; }
+#guess { background-color:#cceeff; width:350px; }
+#game { width:350px; height:90%; clear:both; }
+
+#left { float:left; clear:left; font-size:x-small; border-right:2px double yellow; }
+#left ul { margin-left:15px; padding-left:6px; list-style-type:circle; }
+
+#cmds { padding-left:7px; float:right; font-size:x-small; vertical-align:bottom; text-align:right; }
+
+.heading { border-bottom: solid yellow 1px; clear:both; }
+.section { border-bottom:solid green 1px; /*for auto-equal div widths.. display:table; table-layout:fixed; */ }
+.list { float:left; /* for auto-equal div widths.. display:table-cell; */ }
+.footer { clear:both; }
+.open { color:green; }
+.close { color:red; }
+.opened { display:inline-block; }
+.closed { display:none; }
+
+#title { font-size:xx-large; vertical-align:bottom; border-bottom:2px double yellow; display:block; }
+#always { clear:both; }
+
