@@ -1,6 +1,6 @@
 body { 
 background-color:#def; 
-background-image:url('pics/stained_glass_tile.png');
+background-image:url('/pics/stained_glass_tile.png');
 background-size:cover;
 background-position:center;
 color:#060; 
