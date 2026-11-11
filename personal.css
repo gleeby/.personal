@@ -5,6 +5,7 @@ body {
   background-repeat: no-repeat;
   background-size: min(85vw, 650px);
   background-attachment: fixed;
+  font-family: caveat;
 }
 ol, pre, dl { margin-top:0px; margin-bottom:0px; }
 ul { margin-top:0px; margin-bottom:0px; margin-left:10px; }
